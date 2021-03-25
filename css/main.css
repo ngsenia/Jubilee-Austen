@@ -22,7 +22,7 @@ body {
 /***** HEADER *****/
 header {
     height: 800px;
-    background: url('../img/rainbow.jpg');
+    background: url('../img/full-background.png');
     background-size: cover;
     background-position: center;
 }
